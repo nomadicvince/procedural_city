@@ -1,0 +1,14 @@
+{
+  "name": "cosmiq-d3",
+  "version": "1.0.0",
+  "description": "D3 projects",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vincent Moore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
